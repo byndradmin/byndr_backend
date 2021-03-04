@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://mongouser:mongouser@cluster0.lx5qh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret": "90f3543f-55c0-4410-9750-68dcdfc4dd46",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+        "user": "savanna.murphy58@ethereal.email",
+        "pass": "5quZRe76Cqf6xN16Zr"
+    }
+    }
+}
